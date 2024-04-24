@@ -5,6 +5,6 @@ function f = objectiveFunction(weights, sharpes)
     % Number of sharpes
     n = numel(sharpes);
     % Calculate the root mean square
-    %f = -sqrt(weightedSharpesSquared / n);
+  
     f = -(weightedSharpes/n - penalty);
 end
