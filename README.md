@@ -3,7 +3,8 @@
 <img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/38b4868a-68a2-43e4-827f-b8857210378a">
 <img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/a30f8865-ef58-4457-a69f-0c7ec6725397">
 <img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/1bfc54d3-f1ad-44ef-95d9-2465b26fc436">
-<img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/83b021a4-b476-458f-a5d8-5d617ebbfae5">
+<img width="655" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/48a21826-5fce-4089-9972-636d4362e748">
+
 
 <img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/04781ac5-0e83-4693-9b42-9ba97278a154">
 <img width="700" alt="image" src="https://github.com/CannedOrgi/Geometric-Brownian-Motion-with-Genetic-Algorithm-on-stocks/assets/114853288/e7fb7235-e605-4772-bfba-47e53e49dcd9">
